@@ -17,8 +17,8 @@ This project outlines a robust end-to-end data engineering pipeline for processi
 
 This project offers a valuable foundation for building real-time stock market data analysis applications.
 
-## Architecture
-------------
+## Architecture 
+<img src="Architecture.jpg">
 
 ### Key Components
 
